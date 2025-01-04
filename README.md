@@ -2,7 +2,7 @@
 > 请勿将辅助用于破坏他人游戏体验，请勿用于商业用途 \
 > Please do not use the assistance to disrupt others' gaming experience and refrain from using it for commercial purposes.\
 > 程序路径不能含有中文字符 \
-> Also, please ensure that the program path does not contain any Chinese characters.
+> Also, please ensure that the program path does not contain any Chinese characters.1
 
 > [!NOTE]\
 > Q群: 893682569 \
